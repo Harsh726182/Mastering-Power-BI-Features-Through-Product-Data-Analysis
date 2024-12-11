@@ -27,4 +27,4 @@ Tasks:
  8. Add a reference line in a line chart to show the average product price over different product
  styles.
 9. Identify and remove any duplicate product records in the dataset.
- 10. Create a Treemap to show product price for each color and subcategory. Also show the top
+ 10. Create a Treemap to show product price for each color and subcategory.
